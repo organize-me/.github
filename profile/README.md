@@ -9,5 +9,5 @@ These services are routed through a nginx reverse proxy, encrypted using Let's E
  * wikijs (wiki)
  * nextcloud (cloud services: photo backups, files, calendar, notes, etc..)
  * snipe-it (inventory)
- * bitwarden (password manager) (TBD not yet setup)
+ * vaultwarden (password manager)
  
