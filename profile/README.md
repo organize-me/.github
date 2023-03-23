@@ -5,7 +5,6 @@ In today's digital age, data privacy and security are more important than ever. 
 These services are routed through a nginx reverse proxy, encrypted using Let's Encrypt.
 
 ### Services:
- * keycloak (SSO)
  * wikijs (wiki)
  * nextcloud (cloud services: photo backups, files, calendar, notes, etc..)
  * snipe-it (inventory)
