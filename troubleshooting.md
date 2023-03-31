@@ -1,6 +1,6 @@
-# troubleshooting
-Things happen. The server will experence issues. This file contains a list of common issues.
+# Troubleshooting
+Mishaps can occur, and sometimes the server may experience issues. To help you get back on track, we have compiled a list of common issues and their solutions:
 
-1. Did the server shutdown? Turn the server back on.
-2. Are requests being routed to your server? Verify your server's internal IP address didn't change. If it did, requests probably aren't being routed to your server. Update your routing configuration.
-3. Did the IP address change? In terraform-aws run `terraform plan`. If it looks like your IP address changed, run `terraform apply`
+1. Server Shutdown: If the server has shut down, simply turn it back on to resume normal operation.
+1. Routing Issues: If requests are not being routed to your server, ensure that your server's internal IP address has not changed. If it has, update your routing configuration to allow requests to reach your server.
+1. IP Address Changes: In the case of IP address changes, run terraform plan in terraform-aws to check if the IP address has indeed changed. If it has, run terraform apply to apply the new changes.
