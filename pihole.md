@@ -1,4 +1,6 @@
 # Pi-Hole
+Pi-hole configuration documentation
+
 ## Block Lists
 
 Adlists:
