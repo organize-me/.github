@@ -11,7 +11,7 @@ These services are routed through a nginx reverse proxy, encrypted using Let's E
  * vaultwarden (password manager)
  
 ### Infastructure
- * Nginx (reverse proxy)
- * Keycloak (single sign on)
- * MySQL (database persistance)
- * Pi-hole (DNS [and ad-blocking])
+ * nginx (reverse proxy)
+ * keycloak (single sign on)
+ * mysql (database persistance)
+ * pi-hole (dns [ad & tracker blocker])
