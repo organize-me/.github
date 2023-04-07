@@ -10,3 +10,8 @@ These services are routed through a nginx reverse proxy, encrypted using Let's E
  * snipe-it (inventory)
  * vaultwarden (password manager)
  
+### Infastructure
+ * Nginx (reverse proxy)
+ * Keycloak (single sign on)
+ * MySQL (database persistance)
+ * Pi-hole (DNS [and ad-blocking])
