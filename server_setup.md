@@ -6,7 +6,7 @@ Ubuntu Server 22.04 LTS
 
 ## mDNS
 
-To referernce our server within the local network, we need to set the hostname and setup mDNS. This allows us to reference our server using the domain organize-me.local without needing to configure the DNS server.
+To referernce our server within the local network, we need to set the hostname and setup mDNS. This allows us to reference our server using the domain `organize-me.local` without needing to configure the DNS server.
 
 *Set the hostname*
 ```
